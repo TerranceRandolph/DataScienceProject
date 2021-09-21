@@ -1,6 +1,7 @@
 --> Project Folder Navigation <--
 
 --> Project NLP
+
 Natural Language Processing sentiment analysis with the goal of predicting how good or bad a product, movie or service is based on reviewers’ comments.
 
 --> Project Database 
